@@ -1,8 +1,11 @@
-# Hi there :tada:
+# Hi there :wave:
 
   * I study computer science at the University of Lübeck :books:
-  * In love with NestJs, Prisma, GraphQL & Microservice-Architecture for the backend :electric_plug:
-  * Would always choose a stack similar to NextJs (React), Tailwind Css & Framer Motion for the frontend (web) :fireworks:
+  * Interested in and playing around with following frameworks/technologies for the backend:
+        * NestJs, Prisma, GraphQL :electric_plug:
+        * Golang, gRPC :chart_with_upwards_trend:
+        * Coolest Landscape I've ever seen: [CNCF Landscape](https://landscape.cncf.io/)
+  * Would prefer to choose a stack based on React (NextJs, Gatsby etc.), Tailwind Css & Framer  Motion for the frontend (web) :fireworks:
   
 __Feel free to contact me!__
   
